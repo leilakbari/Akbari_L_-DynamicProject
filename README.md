@@ -1,1 +1,1 @@
-# My Awsome Drag and Drop Media Player
+# My Awesome Drag and Drop Media Player
