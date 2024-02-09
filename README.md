@@ -19,6 +19,12 @@ This portfolio is licensed under the MIT License. You are free to use, modify, a
 # Support
 If you encounter any issues or have questions about this portfolio, feel free to reach out to me via email at your-email@example.com.
 
-Happy exploring! 🚀
+## Credits
 
-@made by Leila Akbari
+This project was created by Leila Akbari.
+
+## License
+
+This project is licensed under the MIT License.
+
+Happy exploring! 🚀
