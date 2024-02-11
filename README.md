@@ -10,9 +10,6 @@ Import the SQL file provided into your MySQL database.
 Ensure that you have PHP and a local server environment set up on your machine.
 After you opened my portfolio page go to Projects and by clicking on each project you can see more details and pictures related to them.
 
-# Support
-If you encounter any issues or have questions about this portfolio, feel free to reach out to me via email at your-email@example.com.
-
 ## Credits
 
 This project was created by Leila Akbari.
